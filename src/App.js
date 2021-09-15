@@ -1,6 +1,5 @@
 import { useState, useEffect, useRef } from "react";
 import LoadingBar from "react-top-loading-bar";
-// https://omdbapi.com/?t=the avengers&apikey=4e18d181
 
 import "./App.css";
 import Poster from "./Components/Poster/Poster";
